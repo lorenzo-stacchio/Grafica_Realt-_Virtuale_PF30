@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Unity/google_cardboard_sdk/Assets/GoogleVR
+/Unity/google_cardboard_sdk/Library/PackageCache
+/Unity/google_cardboard_sdk/Library
+/Unity/google_cardboard_sdk/Assets/TextMesh Pro
+/Unity/virtual_room/Assets/GoogleVR
+/Unity/virtual_room/Assets/TextMesh Pro
+/Unity/virtual_room/Library
+/Unity/virtual_room/Temp
