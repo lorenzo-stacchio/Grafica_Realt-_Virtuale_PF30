@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Royal Hog.unity
-    guid: 637f0c25b4218534fb5a6a974c0f850e
+    path: Assets/Scenes/Basic_Scene.unity
+    guid: a2d893c3fca9a8c4b9e8359fad7a9cb3
   m_configObjects: {}
